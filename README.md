@@ -6,7 +6,16 @@ These are the videos from Dialog Rugby League 2019/20
 
 All the videos are taken from [The Papare](https://www.thepapare.com/) YouTube channel.
 
-## Video Information
+## Annotations
+
+There are two types of event annotations available in this dataset
+
+1. Event start time and event end time for each video with event type - [Video Annotations](image-annotations/)
+2. Event images and bounding box information for the same - [Image Annotations](video-annotations/)
+
+
+
+## All Video Information
 
 | Match ID | YouTube Link | Name of the Video |
 | --- | ----------- | --- |
@@ -62,11 +71,4 @@ All the videos are taken from [The Papare](https://www.thepapare.com/) YouTube c
 | 52 | https://www.youtube.com/watch?v=TWu6lISlAUc | Kandy SC v Havelock SC - DRL 2019/20 Match #52 |
 | ... | ... | ... |
 | 56 | https://www.youtube.com/watch?v=lIU9QDjdtMs | Kandy SC v Police SC – DRL 2019/20 #56 |
-
-## Annotations
-
-There are two types of event annotations available in this dataset
-
-1. Event start time and event end time for each video with event type - [Video Annotations](image-annotations/)
-2. Event images and bounding box information for the same - [Image Annotations](video-annotations/)
 
