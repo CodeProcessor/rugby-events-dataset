@@ -8,6 +8,7 @@ All annotations are in Yolo-v5 format.
 ### Yolo v5 format
 | class_id | x_center | y_center | width | height |
 | --- | --- | --- | --- | --- |
+
 All the values are normalized to [0, 1].
 
 example:
