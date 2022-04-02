@@ -66,9 +66,9 @@ Lineout start frame number = (1 * 3600 + 14 * 60 + 57) * 5 = 4497
 
 | Event Type | No of Annotations |
 | --- | ----- | 
-| Scrum | 277 |
-| Lineout | 287 |
-| Ruck | 363 |
+| Scrum | 532 |
+| Lineout | 720 |
+| Ruck | 370 |
 
-| Total Annotations | 927 |
+| Total Annotations | 1622 |
 | --- | ----- |

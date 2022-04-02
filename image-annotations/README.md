@@ -57,7 +57,3 @@ Example visualizations for the annotated images, can be found in the [image-anno
 
 ![Ruck Image](../assets/ruck_1.png)
 
-## Class IDs
-
-
-

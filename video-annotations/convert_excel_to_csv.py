@@ -37,7 +37,7 @@ def main():
         except KeyError:
             print(f"Match {match_id} has no events")
             break
-        df.to_csv(output_csv, index=False)
+        df.to_csv(output_csv, index=False, header=False)
         print("Converted match#{} to csv - {}\n".format(match_id, output_csv))
 
     print(f"Total events: {' '.join([f'{key} - {val}' for key, val in total_events.items()])}")
